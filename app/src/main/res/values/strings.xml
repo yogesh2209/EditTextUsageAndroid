@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Yogesh_Kohli_Assignment_1</string>
+    <string name="inr_amount">INR Amount</string>
+    <string name="usd_amount">USD Amount</string>
+    <string name="convert">CONVERT</string>
+    <string name="usd">USD</string>
+    <string name="inr">INR</string>
+    <string name="usd_amount_land">USD Amount</string>
+    <string name="inr_amount_land">INR Amount</string>
+    <string name="convert_land">CONVERT</string>
+    <string name="inr_land">INR</string>
+    <string name="usd_land">USD</string>
+</resources>
